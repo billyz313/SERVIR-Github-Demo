@@ -7,5 +7,5 @@ How to make and commit changes
 How to open a Pull Request
 How to merge your Pull Request
 
-Please view the attached powerpoint(SERVIR_git.pptx) and follow along
+Please view the attached powerpoint(<a href="https://github.com/billyz313/SERVIR-Github-Demo/blob/master/SERVIR_github.pptx">SERVIR_git.pptx</a>) and follow along
 
