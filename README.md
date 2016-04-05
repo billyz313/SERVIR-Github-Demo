@@ -7,3 +7,5 @@ How to make and commit changes
 How to open a Pull Request
 How to merge your Pull Request
 
+Please view the attached powerpoint(SERVIR_git.pptx) and follow along
+
